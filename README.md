@@ -1,8 +1,11 @@
-# PLEASE STAR THIS SHIT PLEASE
 # REBATE BOT
+
+## - PLEASE STAR
+## - Need help setting this up or want me to set it up for you readily hosted? DM me on Discord (Risk#2020)
+
 - Automated Discord bot for Submitting Rebates.
 
-#How to use?
+# How to use?
 
 - First NPM Install all the dependencies for both the front end and backend
 - Then you need to replace the pool database details at the top of app.js with your own postgres database and structure it like (Number of the row, KEY VALUE, TOKEN AMOUNT)

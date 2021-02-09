@@ -1,0 +1,21 @@
+{
+  "allRebates": [
+    {
+      "price": ".25 Token",
+      "rebates": [
+        "Energizer $5 VCC (FAST)[MUST DO 4 OR TOKEN WILL BE DEDUCTED EXTRA FOR OTHER REBATES!!!]",
+        "iTunes $10 Virtual GC",
+        "Starbucks $10 Virtual GC"
+      ],
+      "paths": ["energizer", "itunes", "starbucks"]
+    },
+    {
+      "price": ".5 Token",
+      "rebates": [
+        "Nature $10 VCC",
+        "Bandaid $10 VCC"
+      ],
+      "paths": ["nature", "bandaid"]
+    }
+  ]
+}

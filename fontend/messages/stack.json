@@ -1,0 +1,22 @@
+{
+    "title": "Hey,",
+    "description": "Below you can find information regarding your new key! If you believe a mistake has been made contact an admin. Support tickets can be made in the ``#tickets`` channel!",
+    "color": 1953362,
+    "timestamp": "",
+    "author": {
+        "name": "Rebates Bot | Balance",
+        "url": "https://rebates.atshop.io/"
+    },
+    "fields": [
+        {
+            "name": "Current 🔑",
+            "value": "",
+            "inline": true
+        },
+        {
+            "name": "Where do I purchase 🔑's ?",
+            "value": "https://rebates.atshop.io/",
+            "inline": true
+        }
+    ]
+}

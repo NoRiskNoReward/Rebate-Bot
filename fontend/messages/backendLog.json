@@ -1,0 +1,45 @@
+{
+    "content": "Love",
+    "embeds": [
+        {
+            "author": {
+                "name": "Backend Log"
+            },
+            "color": 15258703,
+            "fields": [
+                {
+                    "name": "Status",
+                    "value": "More text",
+                    "inline": true
+                },
+                {
+                    "name": "Rebate",
+                    "value": "Yup",
+                    "inline": true
+                },
+                {
+                    "name": "Key Used",
+                    "value": "okay..."
+                },
+                {
+                    "name": "Additional Info",
+                    "value": "You're welcome :wink:"
+                },
+                {
+                    "name": "Image",
+                    "value": "okay..."
+                },
+                {
+                    "name": "Address",
+                    "value": "You're welcome :wink:",
+                    "inline": true
+                },
+                {
+                    "name": "User",
+                    "value": "Yup",
+                    "inline": true
+                }
+            ]
+        }
+    ]
+}

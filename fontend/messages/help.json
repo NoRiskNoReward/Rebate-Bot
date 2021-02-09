@@ -1,0 +1,45 @@
+{
+    "title": "Hey,",
+    "description": "Below you can find information on the commands I currently support. If you have any questions or are running into issues, please contact a developer.",
+    "color": 1953362,
+    "timestamp": "",
+    "thumbnail": {
+        "url": "https://i.imgur.com/XlQZ2tc.jpg"
+    },
+    "author": {
+        "name": "Rebates Bot | Help",
+        "url": "https://rebates.atshop.io/"
+    },
+    "fields": [
+        {
+            "name": "!rebates",
+            "value": "This command will return a list of available rebates. Each page is ordered by price making it easy to find exactly what you're looking for. Rebates are updated every Sunday and maintenance is conducted as often as needed.",
+            "inline": false
+        },
+        {
+            "name": "!rebateslist",
+            "value": "This command will return a list of available rebates in a single list.",
+            "inline": false
+        },
+        {
+            "name": "!balance [key]",
+            "value": "The balance command will return the current balance connected to the key you provide. If you believe you are missing tickets or are encountering an error please contact an admin. Tickets can be purchased here https://rebates.atshop.io/",
+            "inline": false
+        },
+        {
+            "name": "!submit [option] [key]",
+            "value": "The submit command is used to submit a rebate request. All options can be found by using the !rebates command.",
+            "inline": false
+        },
+        {
+            "name": "!rebatefast,[option],[key],[Address 1],[Address 2],[City],[State],[Zip],[Email],[Phone],[Full Name]",
+            "value": "The submit command is used to submit a rebate request. All options can be found by using the !rebates command.",
+            "inline": false
+        },
+        {
+            "name": "!stack [key1,key2]",
+            "value": "The stack command is used to combine multiple keys into one.",
+            "inline": false
+        }
+    ]
+}

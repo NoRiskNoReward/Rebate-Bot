@@ -1,0 +1,22 @@
+{
+  "title": "Great choice👍,",
+  "description": "You selected option ``#``, ``optiondescription``, for ``ticketprice``. To continue I'll need a little more information.",
+  "color": 1953362,
+  "timestamp": "2020-10-12T22:09:10.360Z",
+  "thumbnail": {
+    "url": "https://i.imgur.com/XlQZ2tc.jpg"
+  },
+  "author": {
+    "name": "Rebates Bot | Rebates | Submit",
+    "url": "https://rebates.atshop.io/"
+  },
+  "footer": {
+    "text": "To cancel reply 'Cancel'"
+  },
+  "fields": [
+    {
+      "name": "Email",
+      "value": "Please reply with your email so you can receive tracking info regarding your rebate. I promise not to send love letters😳"
+    }
+  ]
+}

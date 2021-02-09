@@ -1,0 +1,20 @@
+{
+  "color": 1953362,
+  "timestamp": "2020-10-12T22:09:10.360Z",
+  "thumbnail": {
+    "url": "https://i.imgur.com/XlQZ2tc.jpg"
+  },
+  "author": {
+    "name": "Rebates Bot | Rebates | Submit",
+    "url": "https://rebates.atshop.io/"
+  },
+  "footer": {
+    "text": "To cancel reply 'Cancel'"
+  },
+  "fields": [
+    {
+      "name": "palceholder",
+      "value": "placeholder"
+    }
+  ]
+}

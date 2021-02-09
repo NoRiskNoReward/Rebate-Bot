@@ -1,4 +1,5 @@
-# Rebate-Bot
+# PLEASE STAR THIS SHIT PLEASE
+# REBATE BOT
 - Automated Discord bot for Submitting Rebates.
 
 #How to use?

@@ -1,4 +1,6 @@
 # REBATE BOT
+
+Before you say the code is horrible: 70% of this source code was written by previous shitty non devs that don't know how to do anything. It can't be rescued. I've since rewritten it and I might release or start a better server soon.
 -------------
 - *Please drop a star if this helped you!*
 - *Need help setting this up or want me to set it up for you readily hosted? DM me on Discord (Risk#2020)*
